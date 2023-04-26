@@ -1,0 +1,26 @@
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+    }
+    
+    table {
+    border-collapse: collapse;
+    width: 100%;
+    }
+    
+    th, td {
+    text-align: left;
+    padding: 8px;
+    }
+    
+    th {
+    background-color: #1120a8;
+    color: rgb(255, 255, 255);
+    }
+    
+    
+    img {
+    display: block;
+    margin: 0 auto;
+    }
+   
